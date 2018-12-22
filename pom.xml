@@ -27,5 +27,12 @@
 		<finalName>gamutkart</finalName>
 	</build>
 	
+	<distributionManagement>
+  		<repository>
+    		    <id>sample</id>
+    			<url>http://18.221.112.132:8081/nexus/content/repositories/sample</url>
+  		    </repository>
+	</distributionManagement>
+	
 </project>
 
