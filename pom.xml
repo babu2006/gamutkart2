@@ -35,7 +35,7 @@
 	</distributionManagement>
 <properties>
           <sonar.host.url>http://172.16.121.128:9000</sonar.host.url>
-          <sonar.projectName>abc</sonar.projectName>
+          <sonar.projectName>test</sonar.projectName>
           <sonar.login>admin</sonar.login>
           <sonar.password>admin</sonar.password>
 </properties>
