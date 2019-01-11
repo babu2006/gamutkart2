@@ -33,6 +33,13 @@
     			<url>http://18.221.112.132:8081/nexus/content/repositories/sample</url>
   		    </repository>
 	</distributionManagement>
+<properties>
+          <sonar.host.url>http://172.16.121.128:9000</sonar.host.url>
+          <sonar.projectName>abc</sonar.projectName>
+          <sonar.login>admin</sonar.login>
+          <sonar.password>admin</sonar.password>
+</properties>
+
 	
 </project>
 
