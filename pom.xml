@@ -29,15 +29,12 @@
 	
 	<distributionManagement>
   		<repository>
-    		    <id>sample</id>
-    			<url>http://18.221.112.132:8081/nexus/content/repositories/sample</url>
-  		    </repository>
-	</distributionManagement>
-	<repository>
 		<id>snapshotrepo</id>
 		<name>snapshotrepo</name>
-		<url>http://172.16.121.20:8081/#browse/browse:snapshotrepo</url>
+		<url>http://172.16.121.20:8081//nexus/content/repositories/repo1</url>
 		</repository>
+	</distributionManagement>
+	
 <properties>
           <sonar.host.url>http://172.16.121.128:9000</sonar.host.url>
           <sonar.projectName>test</sonar.projectName>
