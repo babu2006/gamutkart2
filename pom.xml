@@ -31,7 +31,7 @@
   		<repository>
 		<id>snapshotrepo</id>
 		<name>snapshotrepo</name>
-		<url>http://172.16.121.20:8081//nexus/content/repositories/repo1</url>
+		<url>http://172.16.121.10:8081/repository/sample-snap/</url>
 		</repository>
 	</distributionManagement>
 	
