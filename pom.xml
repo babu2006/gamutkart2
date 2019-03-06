@@ -29,8 +29,8 @@
 	
 	<distributionManagement>
   		<repository>
-		<id>snapshotrepo</id>
-		<url>http://172.16.121.10:8081/repository/snapshotrepo/</url>
+		<id>snapshots</id>
+		<url>http://172.16.121.10:8081/repository/snapshots/</url>
 		</repository>
 	</distributionManagement>
 	
