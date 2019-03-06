@@ -30,7 +30,6 @@
 	<distributionManagement>
   		<repository>
 		<id>snapshotrepo</id>
-		<name>snapshotrepo</name>
 		<url>http://172.16.121.10:8081/repository/snapshotrepo/</url>
 		</repository>
 	</distributionManagement>
